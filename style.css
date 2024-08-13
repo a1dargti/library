@@ -1,0 +1,9 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  width: 150px;
+  height: 200px;
+}
